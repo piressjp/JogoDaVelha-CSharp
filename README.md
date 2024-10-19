@@ -1,1 +1,1 @@
-# JogoDaVelha---C-Windows-Form-.Net-Framework-
+# JogoDaVelha-CSharp
